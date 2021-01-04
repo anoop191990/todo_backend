@@ -1,0 +1,12 @@
+__pycache__/
+.idea/
+*.log
+*.pot
+*.pyc
+db.sqlite3
+virt_env/
+log/
+media/
+venv/
+todo_app/migrations/
+.vscode/
